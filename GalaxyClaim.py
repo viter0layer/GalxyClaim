@@ -12,6 +12,8 @@ from sys import stderr
 from time import sleep
 from msvcrt import getch
 
+#galxe claimer
+
 system("cls")
 clear = lambda: system('cls')
 logger.remove()
